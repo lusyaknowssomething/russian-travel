@@ -23,3 +23,5 @@
 Выполнила проект Хатанзейская Людмила - студентка Яндекс.Практикума.
 
 *Ссылка на GitHub Pages:*
+* https://lusyaknowssomething.github.io/russian-travel/
+* https://lusyaknowssomething.github.io/russian-travel/index.html
