@@ -1,0 +1,11 @@
+.page__lead {
+  padding-left: 24px;
+  margin: auto;
+}
+
+@media (max-width: 768px) {
+  .page__lead {
+    padding-left: 0;
+  }
+}
+

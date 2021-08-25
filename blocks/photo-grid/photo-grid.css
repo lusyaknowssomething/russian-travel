@@ -2,11 +2,9 @@
   list-style: none;
   display: grid;
   max-width: 1184px;
-  margin: 92px auto 92px;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
   gap: 16px;
-  padding: 0 48px;
 }
 
 @media (max-width: 1024px) {
@@ -23,8 +21,6 @@
     max-width: 720px;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    padding: 0 24px;
-    margin: 88px auto 88px;
   }
 }
 
@@ -32,8 +28,6 @@
   .photo-grid {
     max-width: 288px;
     grid-template-columns: 1fr;
-    padding: 0 16px;
     gap: 12px;
-    margin: 64px auto 64px;
   }
 }

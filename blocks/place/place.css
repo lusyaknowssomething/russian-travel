@@ -8,7 +8,6 @@
   "image paragraphs";
   row-gap: 48px;
   column-gap: 40px;
-  margin: 0 auto 80px;
 }
 
 @media (max-width: 1024px) {
@@ -24,7 +23,6 @@
     max-width: 720px;
     grid-template-columns: minmax(100px,340px) 1fr;
     column-gap: 28px;
-    margin-bottom: 73px;
   }
 }
 
@@ -39,8 +37,4 @@
     "paragraphs";
     gap: 32px;
   }
-}
-
-.place:last-of-type {
-  margin-bottom: 0;
 }
