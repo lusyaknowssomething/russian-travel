@@ -11,10 +11,3 @@
   }
 }
 
-@media (max-width: 320px) {
-  .footer {
-    flex-direction: column;
-    gap: 48px;
-  }
-}
-

@@ -15,8 +15,3 @@
   }
 }
 
-@media (max-width: 320px) {
-  .page__footer {
-    padding: 0 16px 24px;
-  }
-}

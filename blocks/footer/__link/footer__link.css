@@ -5,6 +5,8 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
+  opacity: 1;
+  transition: opacity .5s;
 }
 
 .footer__link:hover {
@@ -12,13 +14,6 @@
 }
 
 @media (max-width: 500px) {
-  .footer__link {
-    font-size: 24px;
-    line-height: 24px;
-  }
-}
-
-@media (max-width: 320px) {
   .footer__link {
     font-size: 24px;
     line-height: 24px;
